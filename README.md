@@ -1,3 +1,2 @@
-# playground
 
-## Java 및 Spring Framework 공부용 놀이터
+# Java 및 Spring Framework 공부용 놀이터
