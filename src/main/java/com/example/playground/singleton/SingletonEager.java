@@ -1,4 +1,4 @@
-package com.example.playground.singletone;
+package com.example.playground.singleton;
 
 public class SingletonEager {
     private static SingletonEager instance = new SingletonEager();

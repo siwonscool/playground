@@ -1,4 +1,4 @@
-package com.example.playground.singletone;
+package com.example.playground.singleton;
 
 public class SingletonDCL {
     private static volatile SingletonDCL instance;
