@@ -1,5 +1,7 @@
 package com.example.playground.singleton;
 
+import java.util.concurrent.ConcurrentHashMap;
+
 public class SingletonDCL {
     private static volatile SingletonDCL instance;
 
